@@ -1,0 +1,6 @@
+[27-May-2017 19:06:54 UTC] PHP Warning:  include(./footer.php): failed to open stream: No such file or directory in /home/musicsch/public_html/admin/announcements.php on line 61
+[27-May-2017 19:06:54 UTC] PHP Warning:  include(./footer.php): failed to open stream: No such file or directory in /home/musicsch/public_html/admin/announcements.php on line 61
+[27-May-2017 19:06:54 UTC] PHP Warning:  include(): Failed opening './footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/musicsch/public_html/admin/announcements.php on line 61
+[23-Sep-2017 21:39:47 UTC] PHP Warning:  include(./footer.php): failed to open stream: No such file or directory in /home/musicsch/public_html/admin/announcements.php on line 61
+[23-Sep-2017 21:39:47 UTC] PHP Warning:  include(./footer.php): failed to open stream: No such file or directory in /home/musicsch/public_html/admin/announcements.php on line 61
+[23-Sep-2017 21:39:47 UTC] PHP Warning:  include(): Failed opening './footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/musicsch/public_html/admin/announcements.php on line 61
